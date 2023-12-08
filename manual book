@@ -1,0 +1,31 @@
+1. Pendahuluan
+1.1 Tujuan
+Aplikasi Data Pegawai dirancang untuk mengelola dan menampilkan informasi tentang karyawan. Ini menyediakan antarmuka pengguna grafis sederhana untuk memasukkan detail karyawan dan melihat data yang tersimpan.
+
+1.2 Fitur
+Entri Data: Masukkan nama karyawan, NIP (Nomor Induk Pegawai), dan usia.
+Tampilan Data: Lihat tabel data karyawan yang dimasukkan.
+2. Mulai
+2.1 Instalasi
+Tidak diperlukan instalasi. Cukup jalankan aplikasi Java yang disediakan.
+
+2.2 Menjalankan Aplikasi
+Jalankan kelas DataPegawai untuk meluncurkan aplikasi. Jendela utama akan muncul, memungkinkan Anda berinteraksi dengan aplikasi.
+
+3. Antarmuka Pengguna
+3.1 Entri Data
+Masukkan nama karyawan, NIP, dan usia ke dalam kolom teks yang sesuai.
+Klik tombol "Simpan" untuk menambahkan data yang dimasukkan.
+3.2 Menampilkan Data
+Data yang dimasukkan akan ditampilkan dalam tabel di bawah kolom input.
+4. Fungsionalitas
+4.1 Menambahkan Data Pegawai
+Masukkan detail karyawan di kolom teks yang disediakan.
+Klik tombol "Simpan" untuk menyimpan data.
+Data yang dimasukkan akan ditambahkan ke tabel di bawah.
+4.2 Melihat Data Pegawai
+Tabel menampilkan nama, NIP, dan usia karyawan yang dimasukkan.
+5. Perbaikan Masalah
+5.1 Masalah Umum
+Input Salah: Pastikan bahwa NIP dan usia adalah nilai numerik.
+Masalah Tampilan: Jika data tidak ditampilkan dengan benar, restart aplikasi.
